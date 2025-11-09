@@ -292,7 +292,7 @@ Expected:
 
 You can watch a full demonstration of **QueueCTL** in action here:
 
-👉 **[Watch the Demo Video on Google Drive]([https://drive.google.com/file/d/XXXXXXXXXXXXX/view?usp=sharing](https://drive.google.com/file/d/1XEiqlu4_nM7h4q_bquNqwJyfaaY8o2nC/view?usp=sharing))**
+👉 **[Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1XEiqlu4_nM7h4q_bquNqwJyfaaY8o2nC/view?usp=drive_link)**
 
 The demo shows:
 - Enqueuing jobs  
